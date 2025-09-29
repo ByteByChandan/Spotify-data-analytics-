@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Spotify Music Analytics Dashboard using Power BI: track popularity, artist insights, genre trends, and user listening behavior.">
-  <title>Spotify Music Analytics Dashboard</title>
 </head>
 <body>
   <h1>Spotify Music Analytics Dashboard (Power BI)</h1>
