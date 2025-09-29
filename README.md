@@ -57,12 +57,5 @@
     <li>Explore interactive visuals and insights</li>
   </ol>
 
-  <h2>Dashboard Preview</h2>
-  <p>Below is a preview of the dashboard interface:</p>
-  <img src="./images/spotify-dashboard-preview.png" alt="Spotify Dashboard Preview" width="800">
-
-  <h2>License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong>. Feel free to use or modify it for educational purposes.</p>
-
 </body>
 </html>
